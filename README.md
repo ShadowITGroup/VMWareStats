@@ -6,7 +6,7 @@ Project Description
 
 VMWareStats was designed to gather all the performance data of all your VM's , and then export the results to a server or workstation that has Excel installed on it for Excel to graph the data. There is also the ability to send an email with the compiled graphs attached. I hope to have this exported to C# this year, so stay tuned for updates. Please report any bugs or feel free to open any discussions on this. Enjoy!
 
-Visit us at http://www.mjddesignconcepts.com
+Visit us at http://www.shadowitgroup.com
 
 REQUIRED Installs!!!!!
 
